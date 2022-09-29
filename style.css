@@ -1,0 +1,13 @@
+
+p span{
+    color: green;
+}
+.main p{
+    color: red;
+}
+span + span{
+    color: black;
+}
+table tr:nth-child(even){
+    background-color: aqua;
+}
